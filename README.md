@@ -1,10 +1,13 @@
 # US Law Enforcement Agency Directory
 
-A tab-separated dataset of **17,985 U.S. law enforcement agencies** compiled from FBI Crime Data Explorer / UCR program data (2024).
+A dataset of **17,985 U.S. law enforcement agencies** compiled from FBI Crime Data Explorer / UCR program data (2024).
 
-## File
+## Files
 
-**`US-law-enforcement-agencies.tsv`** — one row per agency, tab-delimited.
+- **`US-law-enforcement-agencies.tsv`** — tab-delimited
+- **`US-law-enforcement-agencies.csv`** — comma-separated (with proper quoting for fields containing commas)
+
+Both files contain identical data.
 
 | Column | Description | Example |
 |--------|-------------|---------|
